@@ -1,3 +1,4 @@
+HEAD
 [APDPlat快速体验](https://github.com/ysc/APDPlat/wiki)
 
 [APDPlat入门指南](https://github.com/ysc/APDPlat/wiki/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97)
@@ -63,3 +64,7 @@ APDPlat使用的技术主要有：
 	26)、JSON处理使用Jackson。
 	
 	27)、分布式搜索和实时分析使用elasticsearch
+=======
+siseplatform
+============
+>>>>>>> e354c78395f81aa2a4ce467d05370922c231ed21
